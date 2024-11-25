@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aos": "^2.3.4",
+    "nodemailer": "^6.9.16"
+  }
+}
